@@ -14,6 +14,8 @@ Without looking at a project holistically, individual parts may not work togethe
 ## 3. Your Designs Are Not For You
 Keep in mind who your project is for.
 Swallow your pride, passions and ambitions if they contradict with the needs of your users.
+Don't forget that everyone is a product of their environment. This creates biases and assumptions.
+Do your best to identify these assumptions. This will be good both for you, and for your designs.
 
 ## 4. Always Delight
 Design has the potential to create wonderful, human experiences.
